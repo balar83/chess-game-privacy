@@ -1,6 +1,6 @@
 # Chess Game — Privacy Policy
 
-Single-page privacy policy for the Chess Game Android app (`com.chessgame.app`), hosted via GitHub Pages for use as the Google Play Console privacy policy URL.
+Single-page privacy policy for the Chess Game Android app (`Chess Game — com.rbalasubramanian.chessgame`), hosted via GitHub Pages for use as the Google Play Console privacy policy URL.
 
 This repository intentionally contains nothing else — no app source, no build artifacts, no other product content.
 
